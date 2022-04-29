@@ -1,0 +1,18 @@
+/* ----------------------------------------------------------------------- */
+/*                                                                         */
+/*   Quartz Arc                                                            */
+/*                                                                         */
+/*   8Bit CPU                                                              */
+/*                                                                         */
+/*   Terasic DE0-CV                                                        */
+/*                                                                         */
+/*   System: Core                                                          */
+/*   Role: On-board 7 Segment Display Driver                               */
+/*   Filename: QA_7Seg.v                                                   */
+/*   Date: 29th April 2022                                                 */
+/*   Created By: Benjamin Rosser                                           */
+/*                                                                         */
+/*   This code is covered by Creative Commons CC-BY-NC-SA license          */
+/*   (C) Copyright 2021 Benjamin Rosser                                    */
+/*                                                                         */
+/* ----------------------------------------------------------------------- */
